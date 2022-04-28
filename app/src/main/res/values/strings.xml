@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TopAppBar</string>
+    <string name="setMain">Set as your main</string>
+    <string name="title">Melee Tools</string>
+</resources>
